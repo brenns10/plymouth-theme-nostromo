@@ -2,7 +2,7 @@
 
 nostromo_image = Image("nostromo.png");
 resized_nostromo_image = nostromo_image.Scale(Window.GetWidth(), Window.GetHeight());
-nostromo_sprite = Sprite(resized_flower_image);
+nostromo_sprite = Sprite(resized_nostromo_image);
 
 fun refresh_callback ()
   {
