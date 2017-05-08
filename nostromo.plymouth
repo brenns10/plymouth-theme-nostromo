@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=My Theme
-Description=This theme is a template to build on
+Name=Nostromo
+Description=Nostromo Theme
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/mytheme
-ScriptFile=/usr/share/plymouth/themes/mytheme/mytheme.script
+ImageDir=/usr/share/plymouth/themes/nostromo
+ScriptFile=/usr/share/plymouth/themes/nostromo/nostromo.script
